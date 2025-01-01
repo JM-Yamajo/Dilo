@@ -1,0 +1,46 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environments
+.env
+.venv
+ENV/
+venv/
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Python virtual environment
+*.pyenv
+
+# Image processing temporary files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.pbm
+
+# OpenCV generated files
+*.xml
+*.yaml
+*.yml
+
+# IDE and Editor files
+.idea/
+*.iml
